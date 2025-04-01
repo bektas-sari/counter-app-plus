@@ -2,10 +2,6 @@
 
 Counter App Plus, Flutter ile geliştirilmiş basit ama işlevsel bir sayaç uygulamasıdır. Kullanıcılar sayacı artırabilir, azaltabilir, sıfırlayabilir ve modlar arasında geçiş yapabilir. Bu uygulama Flutter öğrenme sürecinde temel widget’ları ve `setState` kullanımını kavramak için idealdir.
 
-## 📱 Ekran Görüntüsü
-
-<img src="https://via.placeholder.com/300x600.png?text=Screenshot+Coming+Soon" width="300" />
-
 ## ✨ Özellikler
 
 - 🕼️ Sayacı artırma
@@ -31,7 +27,7 @@ lib/
 
 1. Bu repository'yi klonlayın:
    ```bash
-   git clone https://github.com/kullanici-adin/counter_app_plus.git
+   git clone https://github.com/bektas-sari/counter_app_plus.git
    ```
 2. Klasöre girin:
    ```bash
@@ -66,4 +62,4 @@ Flutter öğrenme sürecimi desteklemek için yaptığım mini uygulamalardan bi
 
 ## 📝 Lisans
 
-Bu proje MIT lisansı ile lisanslanmıştır. Detaylar için `LICENSE` dosyasını inceleyin.
+Bu proje MIT lisansı ile lisanslanmıştır.
