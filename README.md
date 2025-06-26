@@ -2,6 +2,8 @@
 
 Counter App Plus is a simple yet functional counter application built with Flutter. It allows users to increment, decrement, reset the counter, and switch between increment/decrement modes. This app is ideal for beginners to understand basic Flutter widgets and the usage of setState for state management.
 
+---
+
 ✨ Features
 
 🕼️ Increment the counter
@@ -14,6 +16,8 @@ Counter App Plus is a simple yet functional counter application built with Flutt
 
 🎯 Simple and user-friendly interface
 
+---
+
 🛠️ Technologies Used
 
 Flutter - Cross-platform UI toolkit
@@ -21,50 +25,55 @@ Flutter - Cross-platform UI toolkit
 Dart - Programming language used in Flutter
 
 Material Design - UI/UX principles used in design
-## 📂 Proje Yapısı
 
-```bash
+---
+📂 Project Structure
+
 lib/
- └── main.dart       # Tüm uygulama mantığı ve arayüz burada yer alıyor
-```
+ └── main.dart       # Contains all application logic and UI components
 
-## 🔧 Kurulum
+🔧 Installation
 
-1. Bu repository'yi klonlayın:
-   ```bash
-   git clone https://github.com/bektas-sari/counter_app_plus.git
-   ```
-2. Klasöre girin:
-   ```bash
-   cd counter_app_plus
-   ```
-3. Gerekli paketleri yükleyin:
-   ```bash
-   flutter pub get
-   ```
-4. Uygulamayı çalıştırın:
-   ```bash
-   flutter run
-   ```
+Clone this repository:
 
-## 📈 Öğrenilen Konular
+git clone https://github.com/bektas-sari/counter_app_plus.git
 
-- `StatefulWidget` ve `setState` ile durumu yönetme
-- `ElevatedButton`, `Text`, `Column`, `Row` gibi temel widget'ların kullanımı
-- Basit uygulama tasarımı ve kullanıcı etkileşimi
+Navigate to the project directory:
 
-## 💡 Geliştirme Fikirleri
+cd counter_app_plus
+Install dependencies:
+flutter pub get
 
-- Koyu tema desteği
-- Sayaç değeri için maksimum / minimum limit
-- Uygulama ikon ve splash ekranı ekleme
-- Lokal veri saklama (SharedPreferences)
+Run the app:
+flutter run
 
-## 🧑‍💻 Geliştirici
+Note: Ensure that you have Flutter installed and properly configured on your system. You can check this with flutter doctor.
 
-**[@kullanici-adin](https://github.com/bektas-sari)**  
-Flutter öğrenme sürecimi desteklemek için yaptığım mini uygulamalardan biridir.
+---
 
-## 📝 Lisans
+💡 Potential Enhancements
 
-Bu proje MIT lisansı ile lisanslanmıştır.
+Dark mode support
+Set minimum and maximum limits for the counter
+Add an application icon and splash screen
+Store counter value using local storage (e.g., SharedPreferences)
+
+---
+
+👤 Developer
+
+Bektas Sari
+
+Email: bektas.sari@gmail.com  <br>
+GitHub: https://github.com/bektas-sari <br>
+LinkedIn: www.linkedin.com/in/bektas-sari <br>
+Researchgate: https://www.researchgate.net/profile/Bektas-Sari-3 <br>
+Academia: https://independent.academia.edu/bektassari <br>
+
+This app is one of the mini-projects I developed during my journey of learning Flutter.
+
+---
+
+📝 License
+
+This project is licensed under the MIT License.
