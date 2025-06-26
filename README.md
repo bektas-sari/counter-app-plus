@@ -1,6 +1,6 @@
-# 🧲 Counter App Plus
+🧲 Counter App Plus
 
-Counter App Plus, Flutter ile geliştirilmiş basit ama işlevsel bir sayaç uygulamasıdır. Kullanıcılar sayacı artırabilir, azaltabilir, sıfırlayabilir ve modlar arasında geçiş yapabilir. Bu uygulama Flutter öğrenme sürecinde temel widget’ları ve `setState` kullanımını kavramak için idealdir.
+Counter App Plus is a simple yet functional counter application built with Flutter. It allows users to increment, decrement, reset the counter, and switch between increment/decrement modes. This app is ideal for beginners to understand basic Flutter widgets and the usage of setState for state management.
 
 ## ✨ Özellikler
 
