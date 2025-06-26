@@ -2,20 +2,25 @@
 
 Counter App Plus is a simple yet functional counter application built with Flutter. It allows users to increment, decrement, reset the counter, and switch between increment/decrement modes. This app is ideal for beginners to understand basic Flutter widgets and the usage of setState for state management.
 
-## ✨ Özellikler
+✨ Features
 
-- 🕼️ Sayacı artırma
-- 🕽️ Sayacı azaltma
-- 🔁 Sıfırla butonu
-- 🔃 Artırma / Azaltma modları arasında geçiş
-- 🎯 Basit ve kullanıcı dostu arayüz
+🕼️ Increment the counter
 
-## 🛠️ Kullanılan Teknolojiler
+🕽️ Decrement the counter
 
-- [Flutter](https://flutter.dev/)
-- Dart
-- Material Design
+🔁 Reset button to return counter to zero
 
+🔃 Toggle between increment/decrement modes
+
+🎯 Simple and user-friendly interface
+
+🛠️ Technologies Used
+
+Flutter - Cross-platform UI toolkit
+
+Dart - Programming language used in Flutter
+
+Material Design - UI/UX principles used in design
 ## 📂 Proje Yapısı
 
 ```bash
